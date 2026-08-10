@@ -1,5 +1,5 @@
 # Maintainer: Philip Müller <philm[at]manjaro[dot]org>
-# Maintainer: Bernhard Landauer <bernhard[at]manjaro[dot]org>
+# Contributor: Bernhard Landauer <bernhard[at]manjaro[dot]org>
 # Contributor: Pierre Schmitz <pierre@archlinux.de>
 
 pkgname=manjaro-keyring
